@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OlaoluwaTemidayo
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning html,css and javascript
-- 💞️ I’m looking to collaborate on developing websites
+- 👀 I am Software Engineer
+- 🌱 I work with python, java and java script
 - 📫 How to reach me send me a mail- samuelolaoluwa181@gmail.com
 
 <!---
